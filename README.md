@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
+| [3701-compute-alternating-sum](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2058-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
