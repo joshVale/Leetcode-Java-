@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2058-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1108-defanging-an-ip-address) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
