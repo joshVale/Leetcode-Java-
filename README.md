@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
