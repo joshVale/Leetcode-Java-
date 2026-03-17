@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2058-concatenation-of-array) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
