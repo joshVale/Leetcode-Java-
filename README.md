@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3701-compute-alternating-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3467-transform-array-by-parity](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
