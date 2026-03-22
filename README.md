@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2413-smallest-even-multiple](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2413-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3467-transform-array-by-parity) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
