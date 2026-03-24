@@ -4,13 +4,7 @@ public:
         int max = *max_element(candies.begin(),candies.end());
         vector<bool>ans;
         for(int i=0;i<candies.size();i++){
-            candies[i]=candies[i]+extraCandies;
-            if(candies[i]>=max){
-                ans.push_back(true);
-            }
-            else{
-                ans.push_back(false);
-            }
+            ans.push_back(max<=(candies[i]+extraCandies));
         }
         return ans;
     }
