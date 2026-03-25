@@ -2,21 +2,15 @@ class Solution {
 public:
     string interpret(string command) {
         string s ="";
-        for(int i = 0; i<command.size();i++){
-            if(command[i]=='(' && command[i+1]==')'){
+        for(int i=0;i<command.size();i++){
+            if(command[i]=='G')s+='G';
+            else if(command[i]=='(' && command[i+1]==')'){
                 s+='o';
+                i++;
             }
-            else if((command[i]==')' && command[i+1]=='(')){
-                continue;
-            }
-            else{
-                s+=command[i];
-            }
-        }
-        for(int i=0;i<s.size();i++){
-            if(s[i]=='(' || s[i]==')'){
-                s.erase(i,1);
-            }
+            else if(command[i]=='('){
+                s+="al";
+                 i+=3;}
         }
         return s;
     }
