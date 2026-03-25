@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
