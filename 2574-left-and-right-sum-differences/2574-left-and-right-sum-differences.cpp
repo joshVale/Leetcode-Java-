@@ -1,22 +1,16 @@
 class Solution {
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
-        vector<int>leftSum ={0};
-        vector<int>rightSum = {0};
-        vector<int>ans;
-        int sumleft = 0,sumright=0;
-        for(int i=0;i<nums.size()-1;i++){
-            sumleft+=nums[i];
-            leftSum.push_back(sumleft);
-        }
-        for(int j=nums.size()-1;j>0;j--){
-            sumright+=nums[j];
-            rightSum.push_back(sumright);
-        }
-        int j=rightSum.size()-1;
-        for(int i=0;i<leftSum.size();i++){
-            ans.push_back(abs(leftSum[i]-rightSum[j]));
-            j--;
+        int n = nums.size();
+        vector<int>ans(n);
+        int totalSum=0;
+        for(int i:nums)
+            totalSum+=i;
+        int leftSum = 0;
+        for(int i=0;i<n;i++){
+            int rightSum = totalSum-leftSum-nums[i];
+            ans[i]=abs(leftSum-rightSum);
+            leftSum+=nums[i];
         }
         return ans;
     }
