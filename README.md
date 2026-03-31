@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1480-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -94,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
