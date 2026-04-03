@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2058-concatenation-of-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
