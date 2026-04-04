@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3146-permutation-difference-between-two-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3194-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3146-permutation-difference-between-two-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3668-restore-finishing-order) |
 ## Counting
