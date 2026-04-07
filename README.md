@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1486-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2413-smallest-even-multiple) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
