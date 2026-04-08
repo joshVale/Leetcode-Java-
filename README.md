@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
 |  |
@@ -107,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
