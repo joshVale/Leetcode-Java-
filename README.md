@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
 |  |
@@ -114,9 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
