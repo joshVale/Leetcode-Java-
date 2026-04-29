@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1486-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/1635-number-of-good-pairs) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0876-middle-of-the-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
