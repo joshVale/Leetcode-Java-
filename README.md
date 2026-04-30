@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0876-middle-of-the-linked-list) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/1Zholdoshbek/Leetcode-Java-/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
